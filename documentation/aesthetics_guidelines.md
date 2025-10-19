@@ -16,6 +16,8 @@
 - Freedom for AI to explore combinations and arrangements
 - No fixed narrative required, but interactions between creatures and nature are common
 - No restrictions on perspective or detail level
+Each generated image is considered part of an ongoing experiment, contributing to the exploration of the apalikulindacore aesthetic and informing further prompt iterations.
+
 
 ## Style Constraints
 - Avoid photorealistic humans
