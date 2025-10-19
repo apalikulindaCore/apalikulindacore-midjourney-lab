@@ -10,13 +10,13 @@
 - Technology reveres nature, and nature heals technology
 - Emphasis on synergy and harmony
 - Poetic, calm, and peaceful atmosphere
-- Typical color palettes avoid yellow, beige, and brown (personal aesthetic preference)
+- Typical colour palettes avoid yellow, beige, and brown (personal aesthetic preference)
 
 ## Composition and Themes
 - Freedom for AI to explore combinations and arrangements
 - No fixed narrative required, but interactions between creatures and nature are common
 - No restrictions on perspective or detail level
-Each generated image is considered part of an ongoing experiment, contributing to the exploration of the apalikulindacore aesthetic and informing further prompt iterations.
+- Each generated image is considered part of an ongoing experiment, contributing to the exploration of the apalikulindacore aesthetic and informing further prompt iterations.
 
 
 ## Style Constraints
@@ -25,9 +25,9 @@ Each generated image is considered part of an ongoing experiment, contributing t
 - Maintain a calm, friendly, and peaceful tone
 - No horror, weapons, or sexualization of characters
 - Occasionally, AI may generate sexualized robots, dinosaurs, or unicorns; such outputs are excluded from the portfolio
-- Use prompts to guide outputs toward desired aesthetic while allowing for AI creativity
+- Use prompts to guide outputs toward the desired aesthetic while allowing for AI creativity
 
 ## Visual Elements
-- Focus on textures, atmosphere, and harmonious color combinations
+- Focus on textures, atmosphere, and harmonious colour combinations
 - Specific details, patterns, and prompt-based variations are tracked separately in prompt notes
 
