@@ -1,5 +1,8 @@
 # apalikulindacore_external_links.md
 
+## Cross-platform Portfolio
+I curate selections from my archive rather than publishing it in full, both for focus and due to the scale of the material.
+
 ## Cosmos  
 **[apalikulindacore / MidJourney 7 Experiments](https://www.cosmos.so/apalikulindacore/midjourney7-experiments)**  
 A page for my version 7 experiments. Some were prompted using moodboards made from my own images, with my long-term nickname embedded as a style reference. I’m curating what feels most resonant across these iterations.
