@@ -8,7 +8,7 @@
 - Experimenting with atmosphere, composition, textures, and narrative elements
 - Applying self-imposed constraints to guide creative exploration
 - Emphasising digital poetics and poetic atmosphere in AI outputs
-- Iterative prompt refinement: starting with long, detailed prompts, then gradually simplifying and adjusting elements (vibe, colors) while experimenting with parameters like `--s`, `--sw`, `--p` to explore AI behavior
+- Iterative prompt refinement: starting with long, detailed prompts, then gradually simplifying and adjusting elements (vibe, colors) while experimenting with parameters like `--s`, `--sw`, `--p` to explore AI behaviour
 
 ## Observations
 - Notes on variations between prompts and resulting outputs
