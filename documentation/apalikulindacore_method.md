@@ -1,0 +1,1 @@
+# Apalikulindacore as a method
