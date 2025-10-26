@@ -64,4 +64,4 @@ Each biome expands a different facet of the world in the style of apalikulindaco
 
 ---
 
-*All images and texts in this project are part of an ongoing poetic exploration within the apalikulindacore system — not documentation of a fixed world, but continuous observation of its possible forms.*
+*All images and texts in this project are part of an ongoing poetic exploration within the apalikulindacore style system = documentation of a fixed world + continuous observation of its possible forms.*
