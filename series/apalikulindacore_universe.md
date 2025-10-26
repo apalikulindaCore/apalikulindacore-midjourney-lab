@@ -4,7 +4,7 @@
 
 ## 🌍 Concept
 A speculative cyber-utopian world where technology, magic, and nature exist in complete synergy.  
-Every element — landscape, flora, fauna, and artificial form participates in a living system of healing, reverence, and mutual respect.  
+Every element (from landscape to flora, fauna, and artificial forms) participates in a living system of healing, reverence, and mutual respect.  
 Creation itself is an act of harmony.  
 
 ---
@@ -16,7 +16,7 @@ Each biome is developed through an iterative remixing workflow in Midjourney v7.
 ### 1) Preparation: world cues
 - **Dedicated moodboard per biome:** composed only of my own generations; it defines palette tendencies, composition logic, material/texture families, and light behaviour.
 - **Self-referencing when needed:** prompts can be enhanced with `--sref` to earlier works from the same moodboard to deepen continuity and style memory.
-- **Unified scaffolding:** structurally similar prompts are used across all biomes to maintain coherence within the apalikulindacore system.
+- **Unified scaffolding:** structurally similar prompts are used across all biomes to maintain coherence within the apalikulindacore style system.
 
 ### 2) Prompt scaffolding
 - **Long-first approach:** start with a detailed prompt specifying atmosphere, spatial logic, material cues, and symbolic anchors (cyber-utopian harmony, hybrids, robotic flora, mythic beings).
